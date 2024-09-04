@@ -14,7 +14,7 @@ struct student
 {
     char name[20];
     char mobile[10];
-    char rollno[4];
+    char rollno[10];
     char course[20];
     char branch[20];
 };
